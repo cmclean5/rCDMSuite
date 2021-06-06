@@ -3,7 +3,7 @@
 R wrapper for Spectral Modularity method contained in CDMSuite.
 
 <p align="center">
-  <img src="CDMSuite/image/Figure_Comp.png" hight="800" width="800" title="Spectral clustering of combined pre- and post-synaptic PPI network">
+  <img src="CDMSuite/image/Figure_Comp.png" hight="600" width="600" title="Spectral clustering of combined pre- and post-synaptic PPI network">
   <!-- <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text"> -->
 </p>
 

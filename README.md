@@ -2,6 +2,12 @@
 
 R wrapper for Spectral Modularity method contained in CDMSuite.
 
+<p align="center">
+  <img src="rblock/image/Figure_Comp.png" hight="800" width="800" title="Spectral clustering of combined pre- and post-synaptic PPI network">
+  <!-- <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text"> -->
+</p>
+
+
 To install in R, on the command line, using:
 > R CMD INSTALL CDMSuite_0.1.0.tar.gz
 

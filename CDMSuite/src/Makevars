@@ -1,2 +1,5 @@
 # Makevars
-PKG_CXXFLAGS=-std=c++11
+#PKG_CXXFLAGS=-std=c++11
+CXX_STD = CXX11
+
+#PKG_CXXFLAGS+=/usr/local/lib/R/4.1/site-library/Rcpp/include
